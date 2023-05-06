@@ -1,0 +1,30 @@
+{
+  "asset": {
+    "version": "2.0"
+  },
+  "buffers": [
+    {
+      "uri": "Terrain.bin",
+      "byteLength": 0
+    }
+  ],
+  "nodes": [
+    {
+      "translation": [
+        0.63,
+        0.0,
+        0.0
+      ],
+      "name": "Terrain"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ],
+      "name": "Terrain"
+    }
+  ]
+}
